@@ -1,0 +1,11 @@
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\obj\Debug\netcoreapp2.2\exe_aluno.csprojAssemblyReference.cache
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\obj\Debug\netcoreapp2.2\exe_aluno.csproj.CoreCompileInputs.cache
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\obj\Debug\netcoreapp2.2\exe_aluno.AssemblyInfoInputs.cache
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\obj\Debug\netcoreapp2.2\exe_aluno.AssemblyInfo.cs
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\bin\Debug\netcoreapp2.2\exe_aluno.deps.json
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\bin\Debug\netcoreapp2.2\exe_aluno.runtimeconfig.json
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\bin\Debug\netcoreapp2.2\exe_aluno.runtimeconfig.dev.json
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\bin\Debug\netcoreapp2.2\exe_aluno.dll
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\bin\Debug\netcoreapp2.2\exe_aluno.pdb
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\obj\Debug\netcoreapp2.2\exe_aluno.dll
+C:\Users\52584781816\Documents\Exercicios2\exe_aluno\obj\Debug\netcoreapp2.2\exe_aluno.pdb
